@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Dao/EtudiantDao.java=UTF-8
+encoding//src/main/java/Dao/EtudiantDaoService.java=UTF-8
+encoding//src/main/java/Dao/EtudiantDaoServiceLocator.java=UTF-8
+encoding//src/main/java/Dao/EtudiantDaoSoapBindingStub.java=UTF-8
+encoding//src/main/java/Dao/FilliereDao.java=UTF-8
+encoding//src/main/java/Dao/FilliereDaoService.java=UTF-8
+encoding//src/main/java/Dao/FilliereDaoServiceLocator.java=UTF-8
+encoding//src/main/java/Dao/FilliereDaoSoapBindingStub.java=UTF-8
+encoding//src/main/java/Models/Etudiant.java=UTF-8
+encoding//src/main/java/Models/Filliere.java=UTF-8
